@@ -1,0 +1,25 @@
+{
+  "name": "employee_tracker_np",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nickpodski/Employee_Tracker_NP.git"
+  },
+  "author": "Nick Podniestrzanski",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nickpodski/Employee_Tracker_NP/issues"
+  },
+  "homepage": "https://github.com/Nickpodski/Employee_Tracker_NP#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "inquirer": "^8.0.0",
+    "mysql": "^2.18.1"
+  }
+}
