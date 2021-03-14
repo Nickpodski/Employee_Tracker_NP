@@ -39,4 +39,8 @@ It's a simple program with a database to store employee lists with roles, and va
 ## Links
 
 
+https://github.com/Nickpodski/Employee_Tracker_NP - Github Repo!
+
+https://drive.google.com/file/d/1Lko1BWc9m-iSuBhiA8m4knV9FGkLi8Of/view?usp=sharing - Demo Video
+
   
